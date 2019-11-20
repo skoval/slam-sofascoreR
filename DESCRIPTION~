@@ -1,0 +1,19 @@
+Package: sofascoreR
+Type: Package
+Title: Scraping Tennis Data from Sofascore
+Version: 0.1
+Date: 2018-6-3
+Author: Stephanie Kovalchik
+Maintainer: Stephanie Kovalchik <skovalchik@tennis.com.au>
+Description: Functions to extract data from sofascore site
+Depends:
+    GIGEngineDB,
+    dplyr,
+    jsonlite,
+    rvest,
+    lubridate,
+    stringr,
+    tidyr,
+    R (>= 3.2.0)
+License: GPL
+RoxygenNote: 6.1.1
